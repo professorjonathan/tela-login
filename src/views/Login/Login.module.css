@@ -1,0 +1,11 @@
+.container {
+    position: absolute;
+    width: 592.56px;
+    height: 638.62px;
+    background: #FFFFFF;
+    box-shadow: 4px 5px 20px rgba(0, 0, 0, 0.05);
+    border-radius: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
