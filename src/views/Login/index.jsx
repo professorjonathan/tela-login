@@ -29,12 +29,13 @@ const Login = () => {
                                 placeholder="Senha"
                             />
                         </Grid>
-                        <Grid style={{ marginTop: 30}} container justifyContent="center">
+                        <Grid style={{ marginTop: 30 }} container justifyContent="center">
                             <Botao
                                 titulo="Entrar"
                                 width={539}
                                 /*onClick={???}*/
                                 sx={{
+                                    fontFamily: 'Overpass',
                                     fontSize: 14,
                                     transition: '0.6s',
                                     fontWeight: 'bold',
